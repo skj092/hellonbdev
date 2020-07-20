@@ -1,24 +1,14 @@
-# Project name here
-> Summary description here.
+# Identify The Dance Form
+> Identify the dance form is a machine learning competition hosted by hackerearth: a platform where you can learn coding and machine learning. I'll use the dataset of this competition for my course project 'Deep Learning with Pytorch: Zero to GANs' : a free course provided by jovian.ml and freecode camp. For more information visit. 
 
-
-This file will become your README and also the index of your documentation.
-
-## Install
-
-`pip install your_project_name`
-
-## How to use
-
-Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+say_hello('sonu')
 ```
 
 
 
 
-    2
+    'Hello sonu!'
 
 

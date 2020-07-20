@@ -1,6 +1,7 @@
 {
   "hellonbdev": {
     "Overview": "/",
-    "module name here": "/core"
+    "module name here": "/core",
+    "Title": "/data"
   }
 }
