@@ -29,7 +29,7 @@ images = glob('train/'+'*.jpg')
 images[:5]
 
 # Cell
-#export
+#exports
 Image.open(images[0])
 
 # Cell

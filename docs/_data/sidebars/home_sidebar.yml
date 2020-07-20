@@ -13,7 +13,7 @@ entries:
       title: module name here
       url: /core
     - output: web,pdf
-      title: Title
+      title: Data
       url: /data
     output: web
     title: hellonbdev
